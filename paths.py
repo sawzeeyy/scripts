@@ -2,6 +2,7 @@
 # Extract PATHs from a list of URLs
 # Exactly what @TomNomNom's Unfurl does
 # But I needed a different result and coded this anyway
+# PS: This was for a specific use case.
 
 import argparse
 import os

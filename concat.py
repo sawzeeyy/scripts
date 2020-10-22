@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Add a text to a list of URLs
+# PS: This was an idea I was exploting sometimes ago.
 
 import argparse
 import os
